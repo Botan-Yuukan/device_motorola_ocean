@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/derp_ocean.mk
+    $(LOCAL_DIR)/arrow_ocean.mk
 
 COMMON_LUNCH_CHOICES := \
-    derp_ocean-eng \
-    derp_ocean-user \
-    derp_ocean-userdebug
+    arrow_ocean-eng \
+    arrow_ocean-user \
+    arrow_ocean-userdebug
